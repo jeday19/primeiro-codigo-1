@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "example" {
-  bucket = "my-tf-test-bucket-cassio"
+  bucket = "my-tf-test-bucket-jesse2"
 
   tags = {
     Name        = "My bucket"
